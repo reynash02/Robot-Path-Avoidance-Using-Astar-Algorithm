@@ -1,0 +1,54 @@
+running egg_info
+creating ../../build/path_avoidance/path_avoidance.egg-info
+writing ../../build/path_avoidance/path_avoidance.egg-info/PKG-INFO
+writing dependency_links to ../../build/path_avoidance/path_avoidance.egg-info/dependency_links.txt
+writing requirements to ../../build/path_avoidance/path_avoidance.egg-info/requires.txt
+writing top-level names to ../../build/path_avoidance/path_avoidance.egg-info/top_level.txt
+writing manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+reading manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+writing manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/reynash/path_avoidance/build/path_avoidance/build
+creating /home/reynash/path_avoidance/build/path_avoidance/build/lib
+creating /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/navigate_turtle.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/greedy.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/__init__.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/turtle_controller.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/astar.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/path_avoidance.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/convexhull.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/equations.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/waypoints.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+running install
+running install_lib
+creating /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/navigate_turtle.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/greedy.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/__init__.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/turtle_controller.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/astar.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/path_avoidance.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/convexhull.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/equations.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/waypoints.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/navigate_turtle.py to navigate_turtle.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/greedy.py to greedy.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/turtle_controller.py to turtle_controller.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/astar.py to astar.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/path_avoidance.py to path_avoidance.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/convexhull.py to convexhull.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/equations.py to equations.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/waypoints.py to waypoints.cpython-310.pyc
+running install_data
+creating /home/reynash/path_avoidance/install/path_avoidance/share/ament_index
+creating /home/reynash/path_avoidance/install/path_avoidance/share/ament_index/resource_index
+creating /home/reynash/path_avoidance/install/path_avoidance/share/ament_index/resource_index/packages
+copying resource/path_avoidance -> /home/reynash/path_avoidance/install/path_avoidance/share/ament_index/resource_index/packages
+copying package.xml -> /home/reynash/path_avoidance/install/path_avoidance/share/path_avoidance
+running install_egg_info
+Copying ../../build/path_avoidance/path_avoidance.egg-info to /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/reynash/path_avoidance/build/path_avoidance/install.log'

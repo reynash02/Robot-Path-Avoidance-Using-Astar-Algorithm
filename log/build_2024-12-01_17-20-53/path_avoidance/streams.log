@@ -1,0 +1,56 @@
+[0.598s] Invoking command in '/home/reynash/path_avoidance/src/path_avoidance': PYTHONPATH=/home/reynash/path_avoidance/build/path_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/path_avoidance build --build-base /home/reynash/path_avoidance/build/path_avoidance/build install --record /home/reynash/path_avoidance/build/path_avoidance/install.log --single-version-externally-managed install_data
+[0.826s] running egg_info
+[0.826s] creating ../../build/path_avoidance/path_avoidance.egg-info
+[0.834s] writing ../../build/path_avoidance/path_avoidance.egg-info/PKG-INFO
+[0.834s] writing dependency_links to ../../build/path_avoidance/path_avoidance.egg-info/dependency_links.txt
+[0.835s] writing requirements to ../../build/path_avoidance/path_avoidance.egg-info/requires.txt
+[0.835s] writing top-level names to ../../build/path_avoidance/path_avoidance.egg-info/top_level.txt
+[0.835s] writing manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+[0.852s] reading manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+[0.852s] writing manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+[0.852s] running build
+[0.852s] running build_py
+[0.852s] creating /home/reynash/path_avoidance/build/path_avoidance/build
+[0.852s] creating /home/reynash/path_avoidance/build/path_avoidance/build/lib
+[0.852s] creating /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.852s] copying path_avoidance/navigate_turtle.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.852s] copying path_avoidance/greedy.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.852s] copying path_avoidance/__init__.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.853s] copying path_avoidance/turtle_controller.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.853s] copying path_avoidance/astar.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.853s] copying path_avoidance/path_avoidance.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.853s] copying path_avoidance/convexhull.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.853s] copying path_avoidance/equations.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.853s] copying path_avoidance/waypoints.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+[0.853s] running install
+[0.856s] running install_lib
+[0.864s] creating /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.864s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/navigate_turtle.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.864s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/greedy.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.864s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/__init__.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.865s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/turtle_controller.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.865s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/astar.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.865s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/path_avoidance.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.865s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/convexhull.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.865s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/equations.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.865s] copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/waypoints.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+[0.865s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/navigate_turtle.py to navigate_turtle.cpython-310.pyc
+[0.866s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/greedy.py to greedy.cpython-310.pyc
+[0.866s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/__init__.py to __init__.cpython-310.pyc
+[0.866s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/turtle_controller.py to turtle_controller.cpython-310.pyc
+[0.867s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/astar.py to astar.cpython-310.pyc
+[0.868s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/path_avoidance.py to path_avoidance.cpython-310.pyc
+[0.868s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/convexhull.py to convexhull.cpython-310.pyc
+[0.869s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/equations.py to equations.cpython-310.pyc
+[0.869s] byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/waypoints.py to waypoints.cpython-310.pyc
+[0.870s] running install_data
+[0.870s] creating /home/reynash/path_avoidance/install/path_avoidance/share/ament_index
+[0.870s] creating /home/reynash/path_avoidance/install/path_avoidance/share/ament_index/resource_index
+[0.870s] creating /home/reynash/path_avoidance/install/path_avoidance/share/ament_index/resource_index/packages
+[0.870s] copying resource/path_avoidance -> /home/reynash/path_avoidance/install/path_avoidance/share/ament_index/resource_index/packages
+[0.870s] copying package.xml -> /home/reynash/path_avoidance/install/path_avoidance/share/path_avoidance
+[0.870s] running install_egg_info
+[0.879s] Copying ../../build/path_avoidance/path_avoidance.egg-info to /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance-0.0.0-py3.10.egg-info
+[0.879s] running install_scripts
+[0.914s] writing list of installed files to '/home/reynash/path_avoidance/build/path_avoidance/install.log'
+[0.940s] Invoked command in '/home/reynash/path_avoidance/src/path_avoidance' returned '0': PYTHONPATH=/home/reynash/path_avoidance/build/path_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/path_avoidance build --build-base /home/reynash/path_avoidance/build/path_avoidance/build install --record /home/reynash/path_avoidance/build/path_avoidance/install.log --single-version-externally-managed install_data

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/path_avoidance/path_avoidance.egg-info/PKG-INFO
+../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt
+../../build/path_avoidance/path_avoidance.egg-info/dependency_links.txt
+../../build/path_avoidance/path_avoidance.egg-info/entry_points.txt
+../../build/path_avoidance/path_avoidance.egg-info/requires.txt
+../../build/path_avoidance/path_avoidance.egg-info/top_level.txt
+../../build/path_avoidance/path_avoidance.egg-info/zip-safe
+path_avoidance/__init__.py
+path_avoidance/marking.py
+path_avoidance/obstacle_marking.py
+resource/path_avoidance
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

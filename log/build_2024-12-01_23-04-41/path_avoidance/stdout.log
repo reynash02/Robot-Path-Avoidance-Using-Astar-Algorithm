@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/path_avoidance/path_avoidance.egg-info/PKG-INFO
+writing dependency_links to ../../build/path_avoidance/path_avoidance.egg-info/dependency_links.txt
+writing entry points to ../../build/path_avoidance/path_avoidance.egg-info/entry_points.txt
+writing requirements to ../../build/path_avoidance/path_avoidance.egg-info/requires.txt
+writing top-level names to ../../build/path_avoidance/path_avoidance.egg-info/top_level.txt
+reading manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+writing manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+running build
+running build_py
+copying path_avoidance/convexhull.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+copying path_avoidance/turtle_gui_simulation.py -> /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance
+running install
+running install_lib
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/convexhull.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+copying /home/reynash/path_avoidance/build/path_avoidance/build/lib/path_avoidance/turtle_gui_simulation.py -> /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/convexhull.py to convexhull.cpython-310.pyc
+byte-compiling /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance/turtle_gui_simulation.py to turtle_gui_simulation.cpython-310.pyc
+running install_data
+copying package.xml -> /home/reynash/path_avoidance/install/path_avoidance/share/path_avoidance
+running install_egg_info
+removing '/home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/path_avoidance/path_avoidance.egg-info to /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gui_sim script to /home/reynash/path_avoidance/install/path_avoidance/lib/path_avoidance
+writing list of installed files to '/home/reynash/path_avoidance/build/path_avoidance/install.log'

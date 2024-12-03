@@ -1,0 +1,22 @@
+[0.570s] Invoking command in '/home/reynash/path_avoidance/src/path_avoidance': PYTHONPATH=/home/reynash/path_avoidance/build/path_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/path_avoidance build --build-base /home/reynash/path_avoidance/build/path_avoidance/build install --record /home/reynash/path_avoidance/build/path_avoidance/install.log --single-version-externally-managed install_data
+[0.796s] running egg_info
+[0.804s] writing ../../build/path_avoidance/path_avoidance.egg-info/PKG-INFO
+[0.804s] writing dependency_links to ../../build/path_avoidance/path_avoidance.egg-info/dependency_links.txt
+[0.804s] writing entry points to ../../build/path_avoidance/path_avoidance.egg-info/entry_points.txt
+[0.804s] writing requirements to ../../build/path_avoidance/path_avoidance.egg-info/requires.txt
+[0.805s] writing top-level names to ../../build/path_avoidance/path_avoidance.egg-info/top_level.txt
+[0.821s] reading manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+[0.822s] writing manifest file '../../build/path_avoidance/path_avoidance.egg-info/SOURCES.txt'
+[0.822s] running build
+[0.822s] running build_py
+[0.822s] running install
+[0.825s] running install_lib
+[0.834s] running install_data
+[0.834s] running install_egg_info
+[0.843s] removing '/home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance-0.0.0-py3.10.egg-info' (and everything under it)
+[0.843s] Copying ../../build/path_avoidance/path_avoidance.egg-info to /home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages/path_avoidance-0.0.0-py3.10.egg-info
+[0.843s] running install_scripts
+[0.878s] Installing gui_sim script to /home/reynash/path_avoidance/install/path_avoidance/lib/path_avoidance
+[0.878s] Installing obstacle_marking script to /home/reynash/path_avoidance/install/path_avoidance/lib/path_avoidance
+[0.878s] writing list of installed files to '/home/reynash/path_avoidance/build/path_avoidance/install.log'
+[0.903s] Invoked command in '/home/reynash/path_avoidance/src/path_avoidance' returned '0': PYTHONPATH=/home/reynash/path_avoidance/build/path_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reynash/path_avoidance/install/path_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/path_avoidance build --build-base /home/reynash/path_avoidance/build/path_avoidance/build install --record /home/reynash/path_avoidance/build/path_avoidance/install.log --single-version-externally-managed install_data

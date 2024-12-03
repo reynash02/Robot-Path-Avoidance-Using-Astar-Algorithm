@@ -1,0 +1,3 @@
+[console_scripts]
+gui_sim = path_avoidance.turtle_gui_simulation:main
+obstacle_marking = path_avoidance.obstacle_marking:main
