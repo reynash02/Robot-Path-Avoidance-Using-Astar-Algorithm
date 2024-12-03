@@ -10,4 +10,5 @@ Example use case:
 points are [(5,7),(10,7),(10,5),(8,5),(8,13)]
 
 ![image](https://github.com/user-attachments/assets/9ef931b5-6eaf-4825-95ff-e72032eaa2e3)
+
 Notice how the path from (8,5) to (8,13) should cross a previously traversed path. But it instead goes around it
